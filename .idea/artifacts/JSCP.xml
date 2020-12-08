@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JSCP">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSCP</output-path>
+    <root id="archive" name="JSCP.jar">
+      <element id="module-output" name="JSCP" />
+      <element id="extracted-dir" path="/usr/share/java/jsch-0.1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/share/openjfx/lib/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
